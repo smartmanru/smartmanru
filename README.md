@@ -1,1 +1,1 @@
-# smartmanru.github.io
+![Metrics](https://metrics.lecoq.io/smartmanru?template=classic&stars=1&achievements=1&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FMoscow)
