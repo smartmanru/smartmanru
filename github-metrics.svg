@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SagerNet/sing-box-for-apple</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental iOS/macOS client for sing-box</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SagerNet/sing-box-for-android</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Android client for sing-box</div>
@@ -890,7 +890,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2023, 03:58:22 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Aug 2023, 04:49:31 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
