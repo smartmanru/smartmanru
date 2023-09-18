@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pawelsikora/mkdocs-with-confluence</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API</div>
@@ -932,7 +932,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 40.2k out of 119m users</span>
+                                    <span class="gh">ranked 40.2k out of 115m users</span>
                                 </div>
                                 <div class="text">Published 219 public repositories</div>
                             </div>
@@ -1118,7 +1118,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 373k out of 119m users</span>
+                                    <span class="gh">ranked 373k out of 115m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -1156,7 +1156,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 287k out of 44.4m repositories</span>
+                                    <span class="gh">ranked 287k out of 46.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 117 stars</div>
                             </div>
@@ -1321,7 +1321,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2023, 23:14:50 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2023, 00:12:32 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
