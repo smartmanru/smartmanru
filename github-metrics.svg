@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>writefreely/writefreely</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A clean, Markdown-based publishing platform made for writers. Write together and build a community.</div>
@@ -374,7 +374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sacredneobi/DurgerKingBot</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Проект интернет магазина по аналогии @durgerkingbot telegram бота</div>
@@ -421,7 +421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabston/Telegram-Support-Bot</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📬 Manage and organize all your support inquiries on Telegram.</div>
@@ -474,7 +474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikurei/ticketgram</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Telegram Support Bot</div>
@@ -918,7 +918,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="296.97999999999996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="297.08333333333337 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -940,7 +940,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3874 times</div>
+                                <div class="text">Repositories have been deployed 3875 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1234,7 +1234,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 288k out of 47.3m repositories</span>
+                                    <span class="gh">ranked 288k out of 45.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 117 stars</div>
                             </div>
@@ -1354,7 +1354,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.77m out of 47.3m repositories</span>
+                                    <span class="gh">ranked 4.18m out of 45.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1445,7 +1445,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2023, 14:12:19 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2023, 15:27:59 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
