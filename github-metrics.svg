@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Matalus/steamdeck-tips</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wiki and files relevant to my Steam Deck tinkering</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Snawoot/dumbproxy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dumbest HTTP proxy ever</div>
@@ -1160,7 +1160,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 296k out of 76.5m repositories</span>
+                                    <span class="gh">ranked 296k out of 75.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 115 stars</div>
                             </div>
@@ -1325,7 +1325,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2023, 00:11:58 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2023, 01:12:34 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
