@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>khoben/telemirror</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Telegram message forwarder (client API)</div>
@@ -954,7 +954,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 36.9k out of 123m users</span>
+                                    <span class="gh">ranked 36.9k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 232 public repositories</div>
                             </div>
@@ -1140,7 +1140,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 384k out of 123m users</span>
+                                    <span class="gh">ranked 384k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -1178,7 +1178,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 297k out of 52.7m repositories</span>
+                                    <span class="gh">ranked 297k out of 56.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 115 stars</div>
                             </div>
@@ -1343,7 +1343,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2023, 10:13:38 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2023, 11:18:29 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
