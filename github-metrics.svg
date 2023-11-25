@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AlexeyBoiko/DgrmJS</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simple-icons/simple-icons</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SVG icons for popular brands</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TomWright/mermaid-server</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go implementation of a HTTP server to allow remote generation of mermaid-js diagrams without any pre-requisites installed locally.</div>
@@ -374,7 +374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hikerpig/pintora</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extensible text-to-diagrams library that works in both browser and node.js</div>
@@ -427,7 +427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cncf/landscape</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.</div>
@@ -936,7 +936,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 37k out of 125m users</span>
+                                    <span class="gh">ranked 37k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 232 public repositories</div>
                             </div>
@@ -1122,7 +1122,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 385k out of 125m users</span>
+                                    <span class="gh">ranked 385k out of 124m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -1160,7 +1160,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 298k out of 57.2m repositories</span>
+                                    <span class="gh">ranked 298k out of 51.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 115 stars</div>
                             </div>
@@ -1325,7 +1325,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2023, 04:01:33 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2023, 05:22:21 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
