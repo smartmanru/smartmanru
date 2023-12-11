@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aw1cks/openconnect</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenConnect VPN running in Docker.</div>
@@ -509,7 +509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quickemu-project/quickemu</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.</div>
@@ -893,7 +893,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="476.2633333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="476.3666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -915,7 +915,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 5609 times</div>
+                                <div class="text">Repositories have been deployed 5610 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -985,7 +985,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 37.2k out of 126m users</span>
+                                    <span class="gh">ranked 37.2k out of 118m users</span>
                                 </div>
                                 <div class="text">Published 232 public repositories</div>
                             </div>
@@ -1171,7 +1171,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 388k out of 126m users</span>
+                                    <span class="gh">ranked 388k out of 118m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -1209,7 +1209,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 299k out of 53.1m repositories</span>
+                                    <span class="gh">ranked 299k out of 54.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 115 stars</div>
                             </div>
@@ -1329,7 +1329,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.05m out of 53.1m repositories</span>
+                                    <span class="gh">ranked 5.07m out of 54.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1420,7 +1420,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2023, 04:05:25 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2023, 05:28:26 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
