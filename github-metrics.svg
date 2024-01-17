@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>frenck/action-home-assistant</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Frenck's GitHub Action for running a Home Assistant Core configuration check</div>
@@ -925,7 +925,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 37.7k out of 128m users</span>
+                                    <span class="gh">ranked 37.7k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 232 public repositories</div>
                             </div>
@@ -940,7 +940,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.86721423682407 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.9520876112252 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1111,7 +1111,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 381k out of 128m users</span>
+                                    <span class="gh">ranked 381k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 33 users</div>
                             </div>
@@ -1149,7 +1149,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 304k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 304k out of 52m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 115 stars</div>
                             </div>
@@ -1314,7 +1314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2024, 20:13:36 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2024, 21:18:44 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
