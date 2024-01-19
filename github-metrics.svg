@@ -622,7 +622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Easterok/telegram-onboarding-kit</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple-to-use tool for crafting onboardings and paywalls for Telegram Bots</div>
@@ -675,7 +675,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meh7an/Teleminal</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source code of t.me/TeleminalBot: A simple tool for managing servers using SSH connections. With it, you can also easily create connection messages to share with friends. You can also link a connection to your account using CloudStorage for multi-device easy access.</div>
@@ -1149,7 +1149,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 304k out of 55.6m repositories</span>
+                                    <span class="gh">ranked 304k out of 50.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 115 stars</div>
                             </div>
@@ -1314,7 +1314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2024, 21:18:46 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2024, 22:12:07 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
